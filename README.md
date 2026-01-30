@@ -1,27 +1,24 @@
 # @pragma-turner
-Computer|Data Scientist
+Data Engineer
 
 ## Interests
 - Collaborative tabletop roleplay games (D&D, BiTD, etc...)
-- Machine Learning
-- Programmable Logic
-- Computer Graphics
+- Backend development
+- Reading science fiction, horror, and fantasy
 
 ## Tools / Proficiencies
 ### Advanced
-- Python (Pycharm / Vim)
-- Data Visualization
-- Neo4j (Graph Databases)
-- Docker & Compose
-### Intermediary
-- Java
+- Languages: Python, SQL
+- IDEs: NeoVim, IntelliJ IDEA
+- Google Cloud Platform (BigQuery, Dataflow)
 ### Basic
-- C++
+- Languages: Kotlin, Rust, Bash, Scala
+- Docker
 
-## What I'm Learning
-- C++ and Vulkan for computer graphics.
-- Time-series forecasting (machine learning) techniques for FinEng
-- FPGA development in Verilog using the DE0-Nano development kit and Quartus.
 
-# Reach me
+## What I'm Playing With
+- Rust/Axum + Svelte for my personal D&D tools
+- Vector Embeddings and RAG for semantic search
+
+# Reach Me
 pragma-turner [AT] pm [DOT] me
